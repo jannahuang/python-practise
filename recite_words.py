@@ -70,4 +70,3 @@ if __name__ == '__main__':
     # words = load_dicts()
     test()
     # recite_words()
-
